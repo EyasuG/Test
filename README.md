@@ -6,3 +6,4 @@ connected with Jenkins.
 Connecting Genkins with github requieres to install webhooks 
 The webhooks then are then properly configured on github using public ip addresses.
 ok
+Using Webhooks and connecting Jenkins with github is a proven challenge 
